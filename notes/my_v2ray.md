@@ -55,14 +55,14 @@ $ ln -s /usr/bin/v2ray/v2ray
 ```
 在`bash`中启动程序
 ```
-$ 
+$ v2ray
 ```
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjE5MTI5MjcwLDExMzEzOTg0
-NzIsMTE1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOT
-A1NjcwMDFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstNzQ5MDA1MTcwLC02MTkxMjky
+NzAsMTEzMTM5ODQ3MiwxMTU0MzQ3ODEyLDMzNTIxMzkyMywtNz
+UyMjczMjQwLDE5MDU2NzAwMV19
 -->
