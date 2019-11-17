@@ -65,16 +65,17 @@ A unified platform for anti-censorship.
 `-config`指定客户端配置文件`config.json`，`/etc/v2ray/config.json`是默认配置文件路径，也可指定其它配置文件
 
 **2. 将`v2ray`作为服务在后台运行**
+启动服务
 ```
-
+sudo service v2ray start
 ```
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTA1MTQ5MzM2LC01MDUzNjIx
-OSwxMDg5ODM3OTg2LC03NDkwMDUxNzAsLTYxOTEyOTI3MCwxMT
-MxMzk4NDcyLDExNTQzNDc4MTIsMzM1MjEzOTIzLC03NTIyNzMy
-NDAsMTkwNTY3MDAxXX0=
+BnZm1cbiIsImhpc3RvcnkiOls4MzQ3NjM2ODUsLTUwNTM2MjE5
+LDEwODk4Mzc5ODYsLTc0OTAwNTE3MCwtNjE5MTI5MjcwLDExMz
+EzOTg0NzIsMTE1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0
+MCwxOTA1NjcwMDFdfQ==
 -->
