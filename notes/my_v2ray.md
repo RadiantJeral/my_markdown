@@ -44,8 +44,13 @@ $ sudo su
 1.  编辑 /etc/v2ray/config.json 文件来配置你需要的代理方式；
 2.  运行 service v2ray start 来启动 V2Ray 进程；
 3.  之后可以使用 service v2ray start|stop|status|reload|restart|force-reload 控制 V2Ray 的运行。
+
+## 3. 使用
+### 3.1
+### 3.2  Linux
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNjMxOTEzNTU5LDExNTQzNDc4
-MTIsMzM1MjEzOTIzLC03NTIyNzMyNDAsMTkwNTY3MDAxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlstMTg2OTEwOTkxMCwxMTU0MzQ3
+ODEyLDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MDU2NzAwMV19
 -->
