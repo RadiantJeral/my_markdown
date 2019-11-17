@@ -75,12 +75,12 @@ sudo service v2ray start
 接下来就是浏览器设置代理服务器
 
 **FireFox**
-![fig 1.]([https://raw.githubusercontent.com/RadiantJeral/my_markdown/master/proxy_config01.png](https://raw.githubusercontent.com/RadiantJeral/my_markdown/master/proxy_config01.png))
+
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTEyMjI4NDgzLDk5ODY4MzI3
-Nyw4MzQ3NjM2ODUsLTUwNTM2MjE5LDEwODk4Mzc5ODYsLTc0OT
-AwNTE3MCwtNjE5MTI5MjcwLDExMzEzOTg0NzIsMTE1NDM0Nzgx
-MiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOTA1NjcwMDFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOls5OTg2ODMyNzcsOTk4NjgzMjc3
+LDgzNDc2MzY4NSwtNTA1MzYyMTksMTA4OTgzNzk4NiwtNzQ5MD
+A1MTcwLC02MTkxMjkyNzAsMTEzMTM5ODQ3MiwxMTU0MzQ3ODEy
+LDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MDU2NzAwMV19
 -->
