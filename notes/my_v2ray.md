@@ -61,13 +61,14 @@ V2Ray 4.21.3 (V2Fly, a community-driven edition of V2Ray.) Custom
 A unified platform for anti-censorship.
 2019/11/17 20:32:38 [Warning] v2ray.com/core: V2Ray 4.21.3 started
 ```
-`-config`指定客户端配置文件`config.json`，`/etc/v2ray/config.json`
+`-config`指定客户端配置文件`config.json`，`/etc/v2ray/config.json是默认`
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMDg5ODM3OTg2LC03NDkwMDUx
-NzAsLTYxOTEyOTI3MCwxMTMxMzk4NDcyLDExNTQzNDc4MTIsMz
-M1MjEzOTIzLC03NTIyNzMyNDAsMTkwNTY3MDAxXX0=
+BnZm1cbiIsImhpc3RvcnkiOlstNTMzNDk4Mzg3LDEwODk4Mzc5
+ODYsLTc0OTAwNTE3MCwtNjE5MTI5MjcwLDExMzEzOTg0NzIsMT
+E1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOTA1Njcw
+MDFdfQ==
 -->
