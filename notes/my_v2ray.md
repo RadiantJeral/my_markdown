@@ -48,16 +48,18 @@ $ sudo su
 ## 3. 使用
 ### 3.1 Windows
 ### 3.2  Linux
+创建软链接
 ```
 $ cd ~/.local.bin
 $ ln -s /usr/bin/v2ray/v2ray
 ```
+在`bash`中启动程序
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls0MDkxMTg4OTksMTEzMTM5ODQ3
-MiwxMTU0MzQ3ODEyLDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MD
-U2NzAwMV19
+BnZm1cbiIsImhpc3RvcnkiOlsxNzI1MjQ0MDU2LDExMzEzOTg0
+NzIsMTE1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOT
+A1NjcwMDFdfQ==
 -->
