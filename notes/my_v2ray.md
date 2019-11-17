@@ -14,10 +14,12 @@ V2Ray 提供了一个在 Linux 中的自动化安装脚本。这个脚本会自�
 
 运行下面的指令下载并安装 V2Ray。当 yum 或 apt-get 可用的情况下，此脚本会自动安装 unzip 和 daemon。这两个组件是安装 V2Ray 的必要组件。如果你使用的系统不支持 yum 或 apt-get，请自行安装 unzip 和 daemon
 ```
-
+```
+\# bash <(curl -L -s https://install.direct/go.sh)
+```
 ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTkwNzk0NTY2MSwzMzUyMTM5
+BnZm1cbiIsImhpc3RvcnkiOlstMTM0Njc1MTM3MSwzMzUyMTM5
 MjMsLTc1MjI3MzI0MCwxOTA1NjcwMDFdfQ==
 -->
