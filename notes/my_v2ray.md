@@ -49,7 +49,7 @@ $ sudo su
 [Start](https://www.v2ray.com/chapter_00/start.html)
 ### 3.1 Windows
 ### 3.2  Linux
-在`bash`中运行`v2ray`
+**1. 在`bash`中运行`v2ray`**
 创建软链接
 ```
 $ cd ~/.local.bin
@@ -63,13 +63,18 @@ A unified platform for anti-censorship.
 2019/11/17 20:32:38 [Warning] v2ray.com/core: V2Ray 4.21.3 started
 ```
 `-config`指定客户端配置文件`config.json`，`/etc/v2ray/config.json`是默认配置文件路径，也可指定其它配置文件
+
+**2. 将`v2ray`作为服务在后台运行**
+```
+
+```
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTA1MzYyMTksMTA4OTgzNzk4
-NiwtNzQ5MDA1MTcwLC02MTkxMjkyNzAsMTEzMTM5ODQ3MiwxMT
-U0MzQ3ODEyLDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MDU2NzAw
-MV19
+BnZm1cbiIsImhpc3RvcnkiOlsxMTA1MTQ5MzM2LC01MDUzNjIx
+OSwxMDg5ODM3OTg2LC03NDkwMDUxNzAsLTYxOTEyOTI3MCwxMT
+MxMzk4NDcyLDExNTQzNDc4MTIsMzM1MjEzOTIzLC03NTIyNzMy
+NDAsMTkwNTY3MDAxXX0=
 -->
