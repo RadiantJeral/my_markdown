@@ -18,9 +18,27 @@ $ sudo su
 [sudo] password for username:
 # bash <(curl -L -s https://install.direct/go.sh)
 ```
+此脚本会自动安装以下文件：
 
+-   `/usr/bin/v2ray/v2ray`：V2Ray 程序；
+-   `/usr/bin/v2ray/v2ctl`：V2Ray 工具；
+-   `/etc/v2ray/config.json`：配置文件；
+-   `/usr/bin/v2ray/geoip.dat`：IP 数据文件
+-   `/usr/bin/v2ray/geosite.dat`：域名数据文件
+此脚本会配置自动运行脚本。自动运行脚本会在系统重启之后，自动运行 V2Ray。目前自动运行脚本只支持带有 Systemd 的系统，以及 Debian / Ubuntu 全系列。
+
+运行脚本位于系统的以下位置：
+
+-   `/etc/systemd/system/v2ray.service`: Systemd
+-   `/etc/init.d/v2ray`: SysV
+
+脚本运行完成后，你需要：
+
+1.  编辑 /etc/v2ray/config.json 文件来配置你需要的代理方式；
+2.  运行 service v2ray start 来启动 V2Ray 进程；
+3.  之后可以使用 service v2ray start|stop|status|reload|restart|force-reload 控制 V2Ray 的运行。
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTU2NTMyMTY5LDMzNTIxMzky
+BnZm1cbiIsImhpc3RvcnkiOlsxMTU0MzQ3ODEyLDMzNTIxMzky
 MywtNzUyMjczMjQwLDE5MDU2NzAwMV19
 -->
