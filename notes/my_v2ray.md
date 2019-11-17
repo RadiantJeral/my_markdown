@@ -48,13 +48,13 @@ $ sudo su
 ## 3. 使用
 ### 3.1 Windows
 ### 3.2  Linux
-将
+启动
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMjU0MjQzODE2LDExMzEzOTg0
+BnZm1cbiIsImhpc3RvcnkiOlstMzcyNzA5NjYzLDExMzEzOTg0
 NzIsMTE1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOT
 A1NjcwMDFdfQ==
 -->
