@@ -54,7 +54,7 @@ $ sudo su
 $ cd ~/.local.bin
 $ ln -s /usr/bin/v2ray/v2ray
 ```
-在`bash`中启动程序，运行`v2ray`的`bash`不
+在`bash`中启动程序，运行`v2ray`的`bash`不要关闭
 ```
 $ $ v2ray -config /etc/v2ray/config.json
 V2Ray 4.21.3 (V2Fly, a community-driven edition of V2Ray.) Custom
@@ -66,7 +66,7 @@ A unified platform for anti-censorship.
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNjI2OTM3NzE2LC03NDkwMDUx
+BnZm1cbiIsImhpc3RvcnkiOlstNDg3NDk1MjEzLC03NDkwMDUx
 NzAsLTYxOTEyOTI3MCwxMTMxMzk4NDcyLDExNTQzNDc4MTIsMz
 M1MjEzOTIzLC03NTIyNzMyNDAsMTkwNTY3MDAxXX0=
 -->
