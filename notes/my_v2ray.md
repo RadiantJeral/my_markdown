@@ -54,12 +54,15 @@ $ cd ~/.local.bin
 $ ln -s /usr/bin/v2ray/v2ray
 ```
 在`bash`中启动程序
+```
+$ 
+```
 **FireFox**
 
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNzI1MjQ0MDU2LDExMzEzOTg0
+BnZm1cbiIsImhpc3RvcnkiOlstNjE5MTI5MjcwLDExMzEzOTg0
 NzIsMTE1NDM0NzgxMiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOT
 A1NjcwMDFdfQ==
 -->
