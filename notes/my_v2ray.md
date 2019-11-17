@@ -48,9 +48,9 @@ $ sudo su
 ## 3. 使用
 ### 3.1
 ### 3.2  Linux
-
+**FireFox**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg2OTEwOTkxMCwxMTU0MzQ3
-ODEyLDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MDU2NzAwMV19
+BnZm1cbiIsImhpc3RvcnkiOlstNzM5MzMyMjM5LDExNTQzNDc4
+MTIsMzM1MjEzOTIzLC03NTIyNzMyNDAsMTkwNTY3MDAxXX0=
 -->
