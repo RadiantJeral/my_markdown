@@ -18,6 +18,13 @@ $ sudo su
 [sudo] password for username:
 # bash <(curl -L -s https://install.direct/go.sh)
 ```
+或者下载`go.sh`到本地安装
+```
+$ sudo su
+[sudo] password for username:
+# wget https://install.direct/go.sh
+# bash go.sh
+```
 此脚本会自动安装以下文件：
 
 -   `/usr/bin/v2ray/v2ray`：V2Ray 程序；
@@ -39,6 +46,6 @@ $ sudo su
 3.  之后可以使用 service v2ray start|stop|status|reload|restart|force-reload 控制 V2Ray 的运行。
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxMTU0MzQ3ODEyLDMzNTIxMzky
-MywtNzUyMjczMjQwLDE5MDU2NzAwMV19
+BnZm1cbiIsImhpc3RvcnkiOlsxNjMxOTEzNTU5LDExNTQzNDc4
+MTIsMzM1MjEzOTIzLC03NTIyNzMyNDAsMTkwNTY3MDAxXX0=
 -->
