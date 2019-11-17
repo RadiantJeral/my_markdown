@@ -4,7 +4,7 @@
 [Project V](https://www.v2ray.com/) 是一个工具集合，它可以帮助你打造专属的基础通信网络。Project V 的核心工具称为[`V2Ray`](https://github.com/v2ray/v2ray-core)，其主要负责网络协议和功能的实现，与其它 Project V 通信。[`V2Ray`](https://github.com/v2ray/v2ray-core) 可以单独运行，也可以和其它工具配合，以提供简便的操作流程。
 
 ## 2. 安装
-官方[安装](https://www.v2ray.com/chapter_00/install.html)手册.
+[Install](https://www.v2ray.com/chapter_00/install.html)
 
 ### 2.1 Windowns
 ### 2.2 Linux
@@ -46,6 +46,7 @@ $ sudo su
 3.  之后可以使用 service v2ray start|stop|status|reload|restart|force-reload 控制 V2Ray 的运行。
 
 ## 3. 使用
+[Start](https://www.v2ray.com/chapter_00/start.html)
 ### 3.1 Windows
 ### 3.2  Linux
 创建软链接
@@ -62,7 +63,7 @@ $ v2ray
 **Chrome**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzQ5MDA1MTcwLC02MTkxMjky
-NzAsMTEzMTM5ODQ3MiwxMTU0MzQ3ODEyLDMzNTIxMzkyMywtNz
-UyMjczMjQwLDE5MDU2NzAwMV19
+BnZm1cbiIsImhpc3RvcnkiOls4ODE1NTE2NiwtNzQ5MDA1MTcw
+LC02MTkxMjkyNzAsMTEzMTM5ODQ3MiwxMTU0MzQ3ODEyLDMzNT
+IxMzkyMywtNzUyMjczMjQwLDE5MDU2NzAwMV19
 -->
