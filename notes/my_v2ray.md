@@ -79,10 +79,12 @@ sudo service v2ray start
 
 ![enter image description here](https://raw.githubusercontent.com/RadiantJeral/my_markdown/master/proxy_config02.png)
 **Chrome**
+https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNzk0NzEyMjA2LDk5ODY4MzI3
-Nyw4MzQ3NjM2ODUsLTUwNTM2MjE5LDEwODk4Mzc5ODYsLTc0OT
-AwNTE3MCwtNjE5MTI5MjcwLDExMzEzOTg0NzIsMTE1NDM0Nzgx
-MiwzMzUyMTM5MjMsLTc1MjI3MzI0MCwxOTA1NjcwMDFdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsyMDc5MTY0NTAwLC03OTQ3MTIy
+MDYsOTk4NjgzMjc3LDgzNDc2MzY4NSwtNTA1MzYyMTksMTA4OT
+gzNzk4NiwtNzQ5MDA1MTcwLC02MTkxMjkyNzAsMTEzMTM5ODQ3
+MiwxMTU0MzQ3ODEyLDMzNTIxMzkyMywtNzUyMjczMjQwLDE5MD
+U2NzAwMV19
 -->
